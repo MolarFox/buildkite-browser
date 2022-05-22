@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "buildkite-browser"
 version = "0.1.0"
-description = ""
+description = "A friendly, feature-filled CLI tool for more intuitively interacting with Buildkite during development and deploying"
 authors = ["MolarFox <molar@molarfox.io>"]
+license = "GNU General Public License v3.0"
 
 [tool.poetry.dependencies]
 python = "^3.10"
